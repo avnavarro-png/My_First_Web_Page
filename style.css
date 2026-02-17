@@ -5,8 +5,8 @@
  h1{
     padding: 5;
  	font-size: 2rem;
- 	font-family: "Tangerine", "consolas";
- 	font-style: "Tangerine";
+ 	font-family: "Press Start 2P", "consolas";
+ 	font-style: "Press Start 2P";
  	color: mediumblue;
  }
   
@@ -20,7 +20,7 @@
  } 	 
  
  p{
-   font-style: "Tangerine";
+   font-style: "Press Start 2P";
    font-size: 2rem;
 }
  
@@ -29,6 +29,7 @@
       font-style: "Tangerine";
       font-family: "Tangerine";
  }
+ 
   a:hover {
       color: dodgerblue;
       background: yellow;
